@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+motor
+beanie
+pydantic-settings
+python-jose[cryptography]
+bcrypt
+python-multipart
+websockets
+python-dotenv
+email-validator
