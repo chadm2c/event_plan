@@ -56,6 +56,10 @@ async def websocket_notifications(
     
     try:
         payload = decode_access_token(token)
+        if not payload:
+            await websocket.close(code=1008)
+            return
+            
         username = payload.get("sub")
         user = await User.find_one(User.username == username)
         if not user:

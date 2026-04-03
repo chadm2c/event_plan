@@ -32,11 +32,11 @@ export default function EventList() {
           // SYSTEM.OVERVIEW.V4
         </div>
         <h1 style={{ fontSize: '5rem', lineHeight: '0.9', marginBottom: '1.5rem', fontWeight: '700', textTransform: 'uppercase', letterSpacing: '-0.05em' }}>
-          INDUSTRIAL <br/>
-          <span style={{ color: 'var(--text-muted)' }}>EXPERIENCES</span>
+          VIBRANT <br/>
+          <span style={{ color: 'var(--text-muted)' }}>CELEBRATIONS</span>
         </h1>
         <p style={{ color: 'var(--text-muted)', fontSize: '1rem', maxWidth: '500px', fontFamily: 'var(--font-heading)', fontWeight: '400' }}>
-          Access the encrypted registry of high-performance gatherings, summits, and networking modules across the global infrastructure.
+          Access the premiere registry of social gatherings, high-energy parties, and curated environments designed for decompression and collective enjoyment.
         </p>
       </header>
 
